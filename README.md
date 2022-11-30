@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Cristopher Rómulo</h1>
 <h3 align="center">An Enthusiasth in Coding</h3>
 
-<center><img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" width="350"></img>
+<img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" width="350" align="center"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crcristo&label=Profile%20views&color=0e75b6&style=flat" alt="crcristo" /> </p></center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crcristo&label=Profile%20views&color=0e75b6&style=flat" alt="crcristo" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst**
 
