@@ -1,7 +1,9 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Cristopher Rómulo</h1>
 <h3 align="center">An Enthusiasth in Coding</h3>
+
+<img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" width="400"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crcristo&label=Profile%20views&color=0e75b6&style=flat" alt="crcristo" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://bloganima2.blogspot.com/](https://bloganima2.blogspot.com/)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crcristo&show_icons=true&locale=en" alt="crcristo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crcristo&" alt="crcristo" /></p>
