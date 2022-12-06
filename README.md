@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Cristopher Rómulo</h1>
-<h3 align="center">An Enthusiasth in Coding</h3>
+<h3 align="center">An Enthusiast in Coding</h3>
 
 <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="hello" width="350" align="center"></img>
 
