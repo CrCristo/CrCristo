@@ -7,11 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crcristo&label=Profile%20views&color=0e75b6&style=flat" alt="crcristo" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **C++**
 
 - 📝 I regularly write articles on [https://bloganima2.blogspot.com/](https://bloganima2.blogspot.com/)
 
 - 💬 Ask me about **Python**
+
+-   **Data Analist**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
